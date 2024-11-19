@@ -1,0 +1,15 @@
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.exe
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.deps.json
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.runtimeconfig.json
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.dll
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\bin\Debug\net8.0\TestConsoleApp.pdb
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.AssemblyInfo.cs
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.sourcelink.json
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.dll
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\refint\TestConsoleApp.dll
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.pdb
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\TestConsoleApp.genruntimeconfig.cache
+C:\Users\Wpelka\OneDrive - Sii Sp. z o.o\Desktop\test\TestConsoleApp\TestConsoleApp\obj\Debug\net8.0\ref\TestConsoleApp.dll
